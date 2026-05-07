@@ -1,0 +1,10 @@
+# Python 3.11 (or compatible).
+# Versions are pinned for exact reproducibility; code should also run
+# with reasonably recent versions of each package.
+
+gymnasium==1.1.1
+torch==2.10.0
+numpy==2.4.1
+pandas==3.0.0
+matplotlib==3.10.8
+scipy==1.17.0

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Generated experiment artifacts (regeneratable from code)
+results/
+
+# Virtual environments
+.venv/
+venv/
+.conda/
+
+# Model checkpoints (if added later)
+*.pt
+*.pth
+*.ckpt

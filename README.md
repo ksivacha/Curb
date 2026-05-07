@@ -39,7 +39,7 @@ counterfactual belief injection.
 │   ├── plot_jsd_ablation.py
 │   ├── plot_forced_defection.py
 │   ├── table_baseline_comparison.py
-│   └── plot_neurips_*.py       Paper-ready (PDF/PNG, NeurIPS aspect ratios)
+│   └── plot_neurips_*.py
 │
 ├── requirements.txt            Pip dependencies
 └── README.md

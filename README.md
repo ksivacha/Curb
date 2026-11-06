@@ -1,4 +1,4 @@
-# CURB: Reproducibility code
+# CURB
 
 This repository contains the code and environments needed to reproduce all
 experiments in the paper. CURB is an intervention mechanism that mitigates

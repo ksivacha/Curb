@@ -152,10 +152,10 @@ All hyperparameters used in a run are recorded in that run's
 If you use this code, please cite the paper:
 
 ```bibtex
-@inproceedings{anonymous2026curb,
-  title  = {CURB: ...},
-  author = {Anonymous},
-  booktitle = {NeurIPS 2026},
-  year   = {2026},
+@inproceedings{sivachandran2026neurips,
+  title = {Mitigating Retaliatory Algorithmic Collusion in Repeated Games},
+  author = {Karthik Sivachandran and Rohan Paleja},
+  booktitle = {Conference on Neural Information Processing Systems ({NeurIPS})},
+  year = {2026}
 }
 ```
